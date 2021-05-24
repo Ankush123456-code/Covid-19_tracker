@@ -5,8 +5,6 @@ Using Vue.js and Tailwind CSS to create a simple Covid-19 tracker web applicatio
 ## Technologies Used
 
 1. Vue.js 3.0
-1. Google Cloud Build CI/CD pipeline
-1. Gooogle Cloud Run
 
 ## Project Setup
 
