@@ -24,8 +24,3 @@ npm run serve
 npm run build
 ```
 
-## Live Site
-
-The live site can be accessed at the [Covid Tracker website][website].
-
-[website]: https://covid-tracker.s3.co.ke/
