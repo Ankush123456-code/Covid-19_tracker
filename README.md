@@ -1,3 +1,3 @@
 ## Covid -19 tracker
 ## LIVE
-[live](https://covidtrackerrr.herokuapp.com/)
+  -- [covid-live](https://covidtrackerrr.herokuapp.com/)
